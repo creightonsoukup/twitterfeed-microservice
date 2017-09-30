@@ -1,0 +1,29 @@
+{
+  "name": "twitterfeed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creightonsoukup/twitterfeed-microservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creightonsoukup/twitterfeed-microservice/issues"
+  },
+  "homepage": "https://github.com/creightonsoukup/twitterfeed-microservice#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.5",
+    "logger": "0.0.1",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {}
+}
